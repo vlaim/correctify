@@ -2,7 +2,7 @@
   "name": "Correctify",
   "short_name": "Correctify",
   "description": "Correctify is a simple and easy to use grammar and spell checker",
-  "start_url": "/",
+  "start_url": "/correctify",
   "display": "minimal-ui",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
